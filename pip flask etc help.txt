@@ -1,0 +1,11 @@
+1. Create folder name flaskmyproject
+2. py -3 -m venv venv
+3. venv\Scripts\activate
+4. pip install flask
+5. flask --version
+6. mkdir demoapp
+7. flask run
+http://127.0.0.1:5000/
+
+
+https://www.youtube.com/watch?v=zYhpx63SPKY
